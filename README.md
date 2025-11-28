@@ -1,3 +1,15 @@
+1. gustavocadev/example-fastapi-uv-ruff
+URL: https://github.com/gustavocadev/example-fastapi-uv-ruff
+Stars: 0
+Type: REST API / Web Application Starter
+UV Version: 0.9.x
+Python Version: 3.10+
+Main Dependencies: FastAPI, Ruff
+Key Features: Minimal starter template, VSCode integration
+Why Analyzed: Demonstrates simplest FastAPI + uv setup
+
+
+
 # Python FastAPI + ruff and uv package manager
 
 This is a simple example of a FastAPI project using the ruff and uv package manager.
